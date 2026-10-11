@@ -1368,7 +1368,7 @@ function ContactFooter() {
         <div className="flex flex-col items-center justify-between gap-3 border-t border-white/10 py-6 text-xs text-white/40 md:flex-row">
           <div>© 2026 Quorbit Labs, Inc. All rights reserved.</div>
           <div className="flex gap-4">
-            <a href="#">Privacy</a>
+            <a href="/privacy-policy.html">EduFlow Privacy</a>
             <a href="#">Terms</a>
             <a href="#">Cookies</a>
           </div>
